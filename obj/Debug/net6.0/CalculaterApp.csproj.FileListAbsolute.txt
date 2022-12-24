@@ -1,0 +1,15 @@
+C:\Users\Samed\source\repos\CalculaterApp\CalculaterApp\bin\Debug\net6.0\CalculaterApp.exe
+C:\Users\Samed\source\repos\CalculaterApp\CalculaterApp\bin\Debug\net6.0\CalculaterApp.deps.json
+C:\Users\Samed\source\repos\CalculaterApp\CalculaterApp\bin\Debug\net6.0\CalculaterApp.runtimeconfig.json
+C:\Users\Samed\source\repos\CalculaterApp\CalculaterApp\bin\Debug\net6.0\CalculaterApp.dll
+C:\Users\Samed\source\repos\CalculaterApp\CalculaterApp\bin\Debug\net6.0\CalculaterApp.pdb
+C:\Users\Samed\source\repos\CalculaterApp\CalculaterApp\obj\Debug\net6.0\CalculaterApp.csproj.AssemblyReference.cache
+C:\Users\Samed\source\repos\CalculaterApp\CalculaterApp\obj\Debug\net6.0\CalculaterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samed\source\repos\CalculaterApp\CalculaterApp\obj\Debug\net6.0\CalculaterApp.AssemblyInfoInputs.cache
+C:\Users\Samed\source\repos\CalculaterApp\CalculaterApp\obj\Debug\net6.0\CalculaterApp.AssemblyInfo.cs
+C:\Users\Samed\source\repos\CalculaterApp\CalculaterApp\obj\Debug\net6.0\CalculaterApp.csproj.CoreCompileInputs.cache
+C:\Users\Samed\source\repos\CalculaterApp\CalculaterApp\obj\Debug\net6.0\CalculaterApp.dll
+C:\Users\Samed\source\repos\CalculaterApp\CalculaterApp\obj\Debug\net6.0\refint\CalculaterApp.dll
+C:\Users\Samed\source\repos\CalculaterApp\CalculaterApp\obj\Debug\net6.0\CalculaterApp.pdb
+C:\Users\Samed\source\repos\CalculaterApp\CalculaterApp\obj\Debug\net6.0\CalculaterApp.genruntimeconfig.cache
+C:\Users\Samed\source\repos\CalculaterApp\CalculaterApp\obj\Debug\net6.0\ref\CalculaterApp.dll
